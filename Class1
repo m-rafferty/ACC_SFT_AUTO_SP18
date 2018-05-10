@@ -86,6 +86,8 @@ Selenium's Tool Suite:
 -Selenium 2 (webdriver): is the latest automation tool and the product of merging Selenium RC and Google's WebDriver project in 2009. This merge was a response to address Javascript limitations of the initial Selenium project. 
 -Selenium IDE (Integrated Development Environment): Firefox plugin that allows user to record actions in the browser and export those recordings into scripts. 
 
+-Automated tests are not always necessary, sometimes its best to run test manually. This all can be dependent on different scenarios. Time and money can play a significant role in this.
+
 Test Types
 Static
 Do the standard parts of the page appear as expected?
